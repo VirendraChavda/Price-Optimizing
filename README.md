@@ -84,4 +84,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-For a full explanation of the analysis, please refer to the [project report]([https://github.com/YourUsername/Price-Optimization/blob/main/Project_Report.ipynb](https://github.com/VirendraChavda/Price-Optimizing/blob/main/Price%20Optimization.ipynb)).
+For a full explanation of the analysis, please refer to the [project report]([https://github.com/VirendraChavda/Price-Optimizing/blob/main/Price%20Optimization.ipynb]).
